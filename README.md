@@ -9,13 +9,6 @@
 
 - 📫 How to reach me **rasheen27392@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://fb.com/shenura rasheen" target="blank"><img align="center" src="Design 7.png" alt="shenura rasheen" height="150" width="150" /></a>
-<a href="https://fb.com/shenura rasheen" target="blank"><img align="center" src="Design 3.png" alt="shenura rasheen" height="165" width="165" /></a>
-<a href="https://www.youtube.com/c/shenurarasheen" target="blank"><img align="center" src="Design 1.png" alt="shenurarasheen" height="150" width="160" /></a>
-<a href="https://www.youtube.com/c/shenurarasheen" target="blank"><img align="center" src="whatsapp.png" alt="shenurarasheen" height="155" width="160" /></a>
-</p>
 
 <h3 align="center">My Skills</h3>
 <p align="center">
@@ -25,6 +18,14 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="css.png" alt="cplusplus" width="80" height="80"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="javascript.png" alt="css3" width="80" height="80"/> </a> 
   <a href="" target="_blank" rel="noreferrer"> <img src="s.png" alt="docker" width="80" height="80"/> </a> 
+
+  <h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://fb.com/shenura rasheen" target="blank"><img align="center" src="Design 7.png" alt="shenura rasheen" height="150" width="150" /></a>
+<a href="https://fb.com/shenura rasheen" target="blank"><img align="center" src="Design 3.png" alt="shenura rasheen" height="165" width="165" /></a>
+<a href="https://www.youtube.com/c/shenurarasheen" target="blank"><img align="center" src="Design 1.png" alt="shenurarasheen" height="150" width="160" /></a>
+<a href="https://www.youtube.com/c/shenurarasheen" target="blank"><img align="center" src="whatsapp.png" alt="shenurarasheen" height="155" width="160" /></a>
+</p>
    
   
 
