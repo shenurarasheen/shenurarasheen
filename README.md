@@ -21,9 +21,9 @@
 
   <h3 align="center">Connect With Me</h3>
 <p align="center">
-<a href="https://fb.com/shenura rasheen" target="blank"><img align="center" src="Design 7.png" alt="shenura rasheen" height="150" width="150" /></a>
-<a href="https://fb.com/shenura rasheen" target="blank"><img align="center" src="Design 3.png" alt="shenura rasheen" height="165" width="165" /></a>
-<a href="https://www.youtube.com/c/shenurarasheen" target="blank"><img align="center" src="Design 1.png" alt="shenurarasheen" height="150" width="160" /></a>
+<a href="https://fb.com/shenura rasheen" target="blank"><img align="center" src="facebook.png" alt="shenura rasheen" height="150" width="150" /></a>
+<a href="https://fb.com/shenura rasheen" target="blank"><img align="center" src="insta.png" alt="shenura rasheen" height="165" width="165" /></a>
+<a href="https://www.youtube.com/c/shenurarasheen" target="blank"><img align="center" src="youtube.png" alt="shenurarasheen" height="150" width="160" /></a>
 <a href="https://www.youtube.com/c/shenurarasheen" target="blank"><img align="center" src="whatsapp.png" alt="shenurarasheen" height="155" width="160" /></a>
 </p>
    
