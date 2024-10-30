@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shenura Rasheen</h1>
+
+<p align="center"><img src="coding_guy_nobg.png" alt="java" width="320" height="320"/> </a></p>
+
 <h3 align="center">Undergraduate Software Engineer | Specializing in Java and Application Development</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shenurarasheen&label=Profile%20views&color=0e75b6&style=flat" alt="shenurarasheen" /> </p>
