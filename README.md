@@ -17,7 +17,7 @@
 <a href="https://www.hackerrank.com/rasheen27392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rasheen27392" height="30" width="40" /></a>
 </p>
 
-### Skills
+<h3 align="center">My Skills</h3>
 <p align="center">
   <a href="" target="_blank" rel="noreferrer"> <img src="java.png" alt="java" width="80" height="80"/> </a> 
   <a href="" target="_blank" rel="noreferrer"> <img src="php.png" alt="arduino" width="80" height="80"/> </a> 
@@ -25,7 +25,6 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="css.png" alt="cplusplus" width="80" height="80"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="javascript.png" alt="css3" width="80" height="80"/> </a> 
   <a href="" target="_blank" rel="noreferrer"> <img src="s.png" alt="docker" width="80" height="80"/> </a> 
-  <a href="" target="_blank" rel="noreferrer"> <img src="mysql.jpg" alt="docker" width="80" height="80"/> </a>
    
   
 
