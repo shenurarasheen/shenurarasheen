@@ -21,6 +21,9 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="css.png" alt="cplusplus" width="80" height="80"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="javascript.png" alt="css3" width="80" height="80"/> </a> 
   <a href="" target="_blank" rel="noreferrer"> <img src="s.png" alt="docker" width="80" height="80"/> </a> 
+  <a href="" target="_blank" rel="noreferrer"> <img src="mysql.png" alt="docker" width="80" height="80"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="git.png" alt="docker" width="80" height="80"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="arduino.png" alt="docker" width="80" height="80"/> </a>
 
   <h3 align="center">Connect With Me</h3>
 <p align="center">
