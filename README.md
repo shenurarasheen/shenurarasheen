@@ -27,7 +27,7 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="git.png" alt="docker" width="80" height="80"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="arduino.png" alt="docker" width="80" height="80"/> </a>
 
-  <h3 align="center">Connect With Me</h3>
+<h3 align="center">Connect With Me</h3>
 <p align="center">
 <a href="https://fb.com/shenura rasheen" target="blank"><img align="center" src="facebook.png" alt="shenura rasheen" height="150" width="150" /></a>
 <a href="https://fb.com/shenura rasheen" target="blank"><img align="center" src="insta.png" alt="shenura rasheen" height="165" width="165" /></a>
