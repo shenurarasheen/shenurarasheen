@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shenura Rasheen</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shenura+Rasheen!;" />
+</h1>
 
 <p align="center"><img src="coding_guy_nobg.png" alt="java" width="320" height="320"/> </a></p>
 
