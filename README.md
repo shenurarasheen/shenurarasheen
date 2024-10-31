@@ -36,5 +36,13 @@
 <a href="https://www.youtube.com/c/shenurarasheen" target="blank"><img align="center" src="whatsapp.png" alt="shenurarasheen" height="135" width="142" /></a>
 <a href="https://www.youtube.com/c/shenurarasheen" target="blank"><img align="center" src="hackerrank.png" alt="shenurarasheen" height="130" width="138" /></a>
 </p>
+
+<div align="center">
+    <picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+    </picture>
+</div>
    
   
