@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shenura+Rasheen!;" />
 </h1>
 
-<p align="center"><img src="coding_guy_nobg.png" alt="java" width="320" height="320"/> </a></p>
+<p align="center"><img src="coding_guy_nobg.png" alt="java" width="280" height="280"/> </a></p>
 
 <h3 align="center">Undergraduate Software Engineer | Specializing in Java and Application Development</h3>
 
@@ -16,6 +16,7 @@
 
 
 ## <h3 align="center">My Skills</h3>
+
 <p align="center">
   <a href="" target="_blank" rel="noreferrer"> <img src="java.png" alt="java" width="80" height="80"/> </a> 
   <a href="" target="_blank" rel="noreferrer"> <img src="php.png" alt="arduino" width="80" height="80"/> </a> 
@@ -37,5 +38,3 @@
 </p>
    
   
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shenurarasheen&show_icons=true&locale=en&layout=compact" alt="shenurarasheen" /></p>
