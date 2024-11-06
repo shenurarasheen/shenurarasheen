@@ -1,5 +1,5 @@
 
-<img src="GitBanner.png"/>
+<img src="GithubBanner-modified.png"/>
 
 <p align="center"><img src="coding_guy_nobg.png" alt="java" width="280" height="280"/> </a></p>
 
